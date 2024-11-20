@@ -1,0 +1,12 @@
+E:\Projects\HealthCareSystem\HealthCareSystem.Core\bin\Debug\net8.0\HealthCareSystem.Core.deps.json
+E:\Projects\HealthCareSystem\HealthCareSystem.Core\bin\Debug\net8.0\HealthCareSystem.Core.dll
+E:\Projects\HealthCareSystem\HealthCareSystem.Core\bin\Debug\net8.0\HealthCareSystem.Core.pdb
+E:\Projects\HealthCareSystem\HealthCareSystem.Core\obj\Debug\net8.0\HealthCareSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\HealthCareSystem\HealthCareSystem.Core\obj\Debug\net8.0\HealthCareSystem.Core.AssemblyInfoInputs.cache
+E:\Projects\HealthCareSystem\HealthCareSystem.Core\obj\Debug\net8.0\HealthCareSystem.Core.AssemblyInfo.cs
+E:\Projects\HealthCareSystem\HealthCareSystem.Core\obj\Debug\net8.0\HealthCareSystem.Core.csproj.CoreCompileInputs.cache
+E:\Projects\HealthCareSystem\HealthCareSystem.Core\obj\Debug\net8.0\HealthCareSystem.Core.dll
+E:\Projects\HealthCareSystem\HealthCareSystem.Core\obj\Debug\net8.0\refint\HealthCareSystem.Core.dll
+E:\Projects\HealthCareSystem\HealthCareSystem.Core\obj\Debug\net8.0\HealthCareSystem.Core.pdb
+E:\Projects\HealthCareSystem\HealthCareSystem.Core\obj\Debug\net8.0\ref\HealthCareSystem.Core.dll
+E:\Projects\HealthCareSystem\HealthCareSystem.Core\obj\Debug\net8.0\HealthCareSystem.Core.csproj.AssemblyReference.cache

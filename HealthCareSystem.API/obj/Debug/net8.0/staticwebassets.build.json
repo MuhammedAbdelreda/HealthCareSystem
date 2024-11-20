@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pTJL/y/mbtnwA++ipPXY/bxqlGItQ/2pcVl1D+5QnWs=",
+  "Source": "HealthCareSystem.API",
+  "BasePath": "_content/HealthCareSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

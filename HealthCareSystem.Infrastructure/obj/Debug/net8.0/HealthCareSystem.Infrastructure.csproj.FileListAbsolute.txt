@@ -1,0 +1,17 @@
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\bin\Debug\net8.0\HealthCareSystem.Infrastructure.deps.json
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\bin\Debug\net8.0\HealthCareSystem.Infrastructure.runtimeconfig.json
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\bin\Debug\net8.0\HealthCareSystem.Infrastructure.dll
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\bin\Debug\net8.0\HealthCareSystem.Infrastructure.pdb
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\bin\Debug\net8.0\HealthCareSystem.Core.dll
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\bin\Debug\net8.0\HealthCareSystem.Core.pdb
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\obj\Debug\net8.0\HealthCareSystem.Infrastructure.csproj.AssemblyReference.cache
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\obj\Debug\net8.0\HealthCareSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\obj\Debug\net8.0\HealthCareSystem.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\obj\Debug\net8.0\HealthCareSystem.Infrastructure.AssemblyInfo.cs
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\obj\Debug\net8.0\HealthCareSystem.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\obj\Debug\net8.0\HealthCa.59D79AC0.Up2Date
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\obj\Debug\net8.0\HealthCareSystem.Infrastructure.dll
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\obj\Debug\net8.0\refint\HealthCareSystem.Infrastructure.dll
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\obj\Debug\net8.0\HealthCareSystem.Infrastructure.pdb
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\obj\Debug\net8.0\HealthCareSystem.Infrastructure.genruntimeconfig.cache
+E:\Projects\HealthCareSystem\HealthCareSystem.Infrastructure\obj\Debug\net8.0\ref\HealthCareSystem.Infrastructure.dll
